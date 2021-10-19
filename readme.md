@@ -211,3 +211,12 @@ Add a Text Alternative to Images for Visually Impaired Accessibility
 - [ ]03- 	Use a Retina Image for Higher Resolution Displays
 - [ ]04- 	Make Typography Responsive
 
+##Projects 
+**Responsive** Web Design certification projects.
+- [ ]01- 	Build a Tribute PageNot Passed
+- [ ]02- 	Build a Survey FormNot Passed
+- [ ]03- 	Build a Product Landing PageNot Passed
+- [ ]04- 	Build a Technical Documentation PageNot Passed
+- [ ]05- 	Build a Personal Portfolio WebpageNot Passed
+
+
