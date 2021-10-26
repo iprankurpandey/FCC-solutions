@@ -12,13 +12,13 @@ body {
   font-size: 12px;
   font-family: 'Poppins', sans-serif;
   background-image: url('./survey.jpg');
-  background-repeat: no-repeat;
+  background-repeat:repeat-y;
   font-size: 15px;
   
 }
 
 #container {
-
+margin-top: 25px;
   margin: auto;
   background-color: var(--btn-bg-color);
   width: 555px;
@@ -31,16 +31,15 @@ body {
 #Age,
 #proffesion,
 #features {
-  margin-top: 25px;
-  margin: 5px;
+  margin: 3px;
   border-radius: 5px;
   height: auto;
-  padding: 4px;
+  padding: 3px;
   border: 3px solid pink;
   font-family: inherit;
   margin: 5px;
   text-align: left;
-  
+  width: 275px;
 }
 
 .input-radio
@@ -70,11 +69,11 @@ section {
 }
 label{
   margin-left:30px;
-  text-align: left;
+  text-align: right;
 }
 #textholder{
   height: 115px;
-  width: 275px;
+  width: 300px;
   border: 2px solid pink;
   margin-top: 15px;
  
@@ -95,6 +94,7 @@ button {
 
 #inputs{
   text-align: center;
+ 
 }
   
   select{
@@ -106,5 +106,5 @@ button {
   }
 
   #proffesion,#features{
-    width: 275px;
+    width: 285px;
   }
